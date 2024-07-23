@@ -1,0 +1,33 @@
+2
+Lop KTLT
+3
+Nguyen Van A
+SV001
+8.5
+Gioi
+Tran Thi B
+SV002
+7.0
+Kha
+Le Van C
+SV003
+5.5
+Trung binh
+Lop OOP
+4
+Pham Minh D
+SV004
+9.0
+Gioi
+Nguyen Thi E
+SV005
+6.0
+Trung binh
+Hoang Van F
+SV006
+7.5
+Kha
+Le Thi G
+SV007
+8.0
+Gioi

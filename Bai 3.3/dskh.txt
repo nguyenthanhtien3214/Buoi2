@@ -1,0 +1,25 @@
+3
+Nguyen Van A
+0123456789
+2
+3
+Avengers
+A1
+18:00
+0
+Tran Thi B
+0987654321
+1
+1
+Frozen
+B2
+20:00
+0
+Le Van C
+0123987654
+0
+2
+Spider-Man
+A1
+18:00
+0
